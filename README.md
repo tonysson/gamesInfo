@@ -1,4 +1,4 @@
-## Games Info is an applications that show informations about upcoming , new , popular games
+## Games Info is an application that show informations about upcoming , new and popular games
 
 ![gf](https://user-images.githubusercontent.com/53177468/103598184-4ae54380-4f02-11eb-9e73-a0c1755a5de2.PNG)
 
